@@ -1,0 +1,9 @@
+API/CMD/Terminal Process Exchange: Intkey Batch submit
+
+Batch= group of transactions
+
+REST API - 8008- Accept the batch submission
+
+Transaction processor = Intkey Walleykey X0 1.0 1.1
+
+Intkey Transaction Family = https://sawtooth.hyperledger.org/docs/1.2/transaction_family_specifications/

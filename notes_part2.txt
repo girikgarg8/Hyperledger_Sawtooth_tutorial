@@ -1,0 +1,21 @@
+Let's say we have two batches
+
+Batch-1
+
+Ram -> Shyam (100)
+Abhi -> Sam (200)
+
+Batch-2
+
+Rama -> Shyama (300)
+Abha -> Sama (400)
+
+In a batch list, the batches arre combined into a list, which is then sent to the REST API.
+
+Something like:
+
+{
+    Batch1,
+    Batch2
+}
+
